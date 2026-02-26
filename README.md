@@ -1,16 +1,49 @@
-## Hi there 👋
+## Hi 👋 I'm Yahya Iraamane
 
-<!--
-**B00ZI/B00ZI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year developer who enjoys building complete applications —  
+from clean user interfaces to solid backend logic and APIs.
 
-Here are some ideas to get you started:
+I like working on real projects, learning new tools, and improving a little every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About me
+
+- 🎓 Second-year student focused on full-stack development
+- 🔧 I work on both **frontend and backend**
+- 🚀 I build personal and academic projects
+- 🤝 Open to collaboration and learning from others
+- 💬 You can ask me about frontend, backend, or full-stack development
+- ⚡ I enjoy turning ideas into working products
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+- HTML / CSS  
+- Tailwind CSS  
+- JavaScript  
+- TypeScript  
+- React  
+- Next.js  
+
+**Backend**
+- PHP  
+- Laravel  
+- Python  
+
+**Tools**
+- Git & GitHub  
+
+---
+
+### 📫 Contact
+
+- 📧 Email: iraamaneyahya@gmail.com  
+- 💼 LinkedIn: Iraamane Yahya  
+
+---
+
+Thanks for visiting my profile —  
+I'm always learning and building better software.
