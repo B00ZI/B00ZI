@@ -18,23 +18,29 @@ I like working on real projects, learning new tools, and improving a little ever
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech & Tools
 
-**Frontend**
-- HTML / CSS  
-- Tailwind CSS  
-- JavaScript  
-- TypeScript  
-- React  
-- Next.js  
+- React, Next.js
+- JavaScript, TypeScript
+- PHP, Laravel
+- Python
+- HTML, CSS, Tailwind CSS
 
-**Backend**
-- PHP  
-- Laravel  
-- Python  
+- MySQL, SQLite, PostgreSQL
+- Supabase
 
-**Tools**
-- Git & GitHub  
+- Git & GitHub
+- Postman
+- TablePlus
+- Figma
+- Trello
+
+---
+
+### 🧩 What I usually build
+
+- Full-stack web apps with React / Next.js on the frontend and Laravel on the backend
+- Dashboards, CRUD systems, authentication flows, and REST APIs connected to real databases
 
 ---
 
