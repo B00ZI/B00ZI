@@ -42,8 +42,8 @@ I like working on real projects, learning new tools, and improving a little ever
 - Full-stack web apps with React / Next.js on the frontend and Laravel on the backend
 - Dashboards, CRUD systems, authentication flows, and REST APIs connected to real databases
 
----
-# 📊 GitHub Stats
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=B00ZI&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="95%" />
@@ -56,7 +56,7 @@ I like working on real projects, learning new tools, and improving a little ever
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B00ZI&theme=dark&hide_border=true&layout=compact" width="95%" />
 </p>
----
+
 
 ### 📫 Contact
 
