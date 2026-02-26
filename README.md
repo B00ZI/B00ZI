@@ -43,6 +43,20 @@ I like working on real projects, learning new tools, and improving a little ever
 - Dashboards, CRUD systems, authentication flows, and REST APIs connected to real databases
 
 ---
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=B00ZI&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=B00ZI&theme=dark&hide_border=true" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B00ZI&theme=dark&hide_border=true&layout=compact" width="95%" />
+</p>
+---
 
 ### 📫 Contact
 
