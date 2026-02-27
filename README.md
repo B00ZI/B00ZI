@@ -58,12 +58,6 @@ I like working on real projects, learning new tools, and improving a little ever
 </p>
 
 ---
-### 📫 Contact
-
-- 📧 Email: iraamaneyahya@gmail.com  
-- 💼 LinkedIn: Iraamane Yahya  
-
----
 
 Thanks for visiting my profile —  
 I'm always learning and building better software.
