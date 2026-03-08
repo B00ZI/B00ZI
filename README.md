@@ -60,4 +60,4 @@ I like working on real projects, learning new tools, and improving a little ever
 ---
 
 Thanks for visiting my profile —  
-I'm always learning and building better software.
+I'm always learning and building .
