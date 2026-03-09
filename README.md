@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Yahya Iraamane
 
-I'm a second-year developer who enjoys building complete applications —  
+I'm a second-year developer who enjoys building complete applications.
 from clean user interfaces to solid backend logic and APIs.
 
 I like working on real projects, learning new tools, and improving a little every day.
