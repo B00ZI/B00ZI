@@ -7,7 +7,7 @@ I like working on real projects, learning new tools, and improving a little ever
 
 ---
 
-### 👨‍💻 About me
+## 👨‍💻 About me
 
 - 🎓 Second-year student focused on full-stack development
 - 🔧 I work on both **frontend and backend**
@@ -18,7 +18,7 @@ I like working on real projects, learning new tools, and improving a little ever
 
 ---
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
 <!-- Languages & Frameworks -->
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -34,7 +34,7 @@ I like working on real projects, learning new tools, and improving a little ever
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### ⚙️ Tools
+## ⚙️ Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -44,14 +44,14 @@ I like working on real projects, learning new tools, and improving a little ever
 
 ---
 
-### 🧩 What I usually build
+## 🧩 What I usually build
 
 - Full-stack web apps with React / Next.js on the frontend and Laravel on the backend
 - Dashboards, CRUD systems, authentication flows, and REST APIs connected to real databases
 
 ---
 
-### 🌱 GitHub Stats
+## 🌱 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=B00ZI&theme=dark&hide_border=true" width="95%" />
